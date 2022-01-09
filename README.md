@@ -9,5 +9,5 @@ I'm Bahadir from Turkey, and I am a software developer. I really enjoy learning 
 * Vue
 * React
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comen35&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comen35&theme=darcula&show_icons=true)
 

@@ -1,8 +1,8 @@
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=comen35&label=Profile%20views&color=0e75b6&style=flat" alt="comen35" style="margin:3px"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=comen35&label=Profile%20views&color=0e75b6&style=flat" alt="comen35" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comen35" alt="comen35" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=comen35" alt="comen35" /></a> </p>
 
 - 🌱 I’m currently learning **Vue,React,Django,Go**
 
